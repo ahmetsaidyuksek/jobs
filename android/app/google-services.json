@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097246653921",
+    "firebase_url": "https://javinsensestudios-jobs-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "javinsensestudios-jobs",
+    "storage_bucket": "javinsensestudios-jobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097246653921:android:600efb5ce889c6a748a6a0",
+        "android_client_info": {
+          "package_name": "com.example.jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097246653921-5pc21i9iotkdk7jo827q7pkhalprdfgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFoPsEizXu-L5LHqcjuc03IL9OmbqbGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097246653921-5pc21i9iotkdk7jo827q7pkhalprdfgp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097246653921-jo8ko828dkf62eo7lvbvd38m7448keu5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.javinsensestudios.jobs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
